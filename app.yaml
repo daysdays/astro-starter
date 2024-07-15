@@ -1,0 +1,6 @@
+domains:
+- astro-starter-daysdays.wasmer.app
+kind: wasmer.io/App.v0
+name: daysdays-astro-starter
+owner: daysdays
+package: .
